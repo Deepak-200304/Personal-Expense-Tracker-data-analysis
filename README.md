@@ -1,7 +1,7 @@
 # Personal-Expense-Tracker-data-analysis
 
 ## Project Overview
-This project analyzes Personal Expense Tracker Data Analysis to uncover trends, regional performance, and monthly sales behavior using Python.
+This project analyzes Personal Expense data analysis on product and category to uncover trends and monthly sales behavior using Python.
 
 ## Tools Used
 - Python
@@ -20,3 +20,4 @@ This project analyzes Personal Expense Tracker Data Analysis to uncover trends, 
 - Written business insights
 
 ## Conclusion
+The analysis provides actionable insights to improve sales strategy and trends.
